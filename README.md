@@ -13,7 +13,7 @@ Este projeto foi desenvolvido em inspiração no desafio Country Quiz do [devCha
 #### * [ESlint](https://eslint.org/)
 
 ## Telas do Projeto
-<div style="display: flex; flex-direction: row; flex-wrap: wrap">
+<div style="display: flex;">
     <div style="width: 50%;">
         <img src="./images/dashboard.png"/>
     </div>
@@ -21,10 +21,10 @@ Este projeto foi desenvolvido em inspiração no desafio Country Quiz do [devCha
         <img src="./images/correct.png" />
     </div>
     <div style="width: 50%;">
-        <img src="./images/incorrect.png" width="50%" />
+        <img src="./images/incorrect.png" />
     </div>
     <div style="width: 50%;">
-        <img src="./images/results.png" width="50%" />
+        <img src="./images/results.png" />
     </div>
 </div>
 
