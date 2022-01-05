@@ -9,6 +9,7 @@ Este projeto foi desenvolvido em inspiração no desafio Country Quiz do [devCha
 ## :closed_book: Bibliotecas Utilizadas
 #### * [Styled Component](https://styled-components.com/)
 #### * [Axios](https://github.com/axios/axios)
+#### * [Polished](https://polished.js.org/)
 #### * [Prettier](https://prettier.io/)
 #### * [ESlint](https://eslint.org/)
 
