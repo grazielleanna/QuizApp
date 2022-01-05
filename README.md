@@ -14,10 +14,18 @@ Este projeto foi desenvolvido em inspiração no desafio Country Quiz do [devCha
 
 ## Telas do Projeto
 <div style="display: flex; flex-direction: row; flex-wrap: wrap">
-    <img src="./images/dashboard.png" width="50%" />
-    <img src="./images/correct.png" width="50%" />
-    <img src="./images/incorrect.png" width="50%" />
-    <img src="./images/results.png" width="50%" />
+    <div style="width: 50%;">
+        <img src="./images/dashboard.png"/>
+    </div>
+    <div style="width: 50%;">
+        <img src="./images/correct.png" />
+    </div>
+    <div style="width: 50%;">
+        <img src="./images/incorrect.png" width="50%" />
+    </div>
+    <div style="width: 50%;">
+        <img src="./images/results.png" width="50%" />
+    </div>
 </div>
 
 ## :rocket: Funcionalidade
