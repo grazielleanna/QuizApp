@@ -15,16 +15,16 @@ Este projeto foi desenvolvido em inspiração no desafio Country Quiz do [devCha
 ## Telas do Projeto
 <div style="display: flex;">
     <div style="width: 50%;">
-        <img src="./images/dashboard.png"/>
+        <img src="./images/dashboard.png" width="200" />
     </div>
     <div style="width: 50%;">
-        <img src="./images/correct.png" />
+        <img src="./images/correct.png" width="200" />
     </div>
     <div style="width: 50%;">
-        <img src="./images/incorrect.png" />
+        <img src="./images/incorrect.png" width="200" />
     </div>
     <div style="width: 50%;">
-        <img src="./images/results.png" />
+        <img src="./images/results.png" width="200" />
     </div>
 </div>
 
