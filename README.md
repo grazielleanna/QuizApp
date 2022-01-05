@@ -13,20 +13,12 @@ Este projeto foi desenvolvido em inspiração no desafio Country Quiz do [devCha
 #### * [ESlint](https://eslint.org/)
 
 ## Telas do Projeto
-<div style="display: flex;">
-    <div style="width: 50%;">
-        <img src="./images/dashboard.png" width="200" />
-    </div>
-    <div style="width: 50%;">
-        <img src="./images/correct.png" width="200" />
-    </div>
-    <div style="width: 50%;">
-        <img src="./images/incorrect.png" width="200" />
-    </div>
-    <div style="width: 50%;">
-        <img src="./images/results.png" width="200" />
-    </div>
-</div>
+<p float="left">
+  <img src="./images/dashboard.png" width="200" />
+  <img src="./images/correct.png"  width="200" /> 
+  <img src="./images/incorrect.png" width="200" />
+  <img src="./images/results.png" width="200" />
+</p>
 
 ## :rocket: Funcionalidade
 Aplicação feita com o intuito de informar de trazer uma distração para o usuário testando ao mesmo tempo os seus conhecimentos tecnológicos e mostra o resultado ao final.
