@@ -15,7 +15,6 @@ export const Container = styled.section`
   background-repeat: no-repeat;
 
   @media (max-width: 767px) {
-    height: auto;
     background-position: 62% 50%;
   }
 `;

@@ -22,7 +22,7 @@ interface LyricsAndIndex {
 }
 
 export const QuizQuestions = () => {
-  const { updateScore, updateEndQuiz, endQuiz } = useQuiz();
+  const { updateScore, updateEndQuiz } = useQuiz();
   const [questions, setQuestions] = useState<QuestionsProps[]>([]);
   const [isChecked, setIsChecked] = useState([]);
   const [nextQuestion, setNextQuestion] = useState(false);
@@ -30,6 +30,7 @@ export const QuizQuestions = () => {
 
   useEffect(() => {
     getQuestions();
+    // eslint-disable-next-line
   }, []);
 
   const getQuestions = async () => {
@@ -132,13 +133,14 @@ export const QuizQuestions = () => {
     E: "4",
     F: "5",
   };
-
+  
   return (
     <>
       <QuizContent>
         <img src={logoImg} alt="Logo Quiz" />
         {questions.length > 0 ? (
           <Question>
+            <p>Question {(currentQuestion+1)} of {(questions.length+1)}</p>
             <h3>{questions[currentQuestion]?.question}</h3>
             <Answers>
               {questions[currentQuestion]?.answers.map((item: any, index) => (

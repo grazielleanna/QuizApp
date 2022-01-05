@@ -13,7 +13,7 @@ export const QuizResult = () => {
     return(
         <Container>
             <Header>
-                <img src={winnersImg} alt="Image Winner" />
+                <img src={winnersImg} alt="Winner" />
             </Header>
             <Main>
                 <h2>Results</h2>

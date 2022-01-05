@@ -22,6 +22,11 @@ export const QuizContent = styled.div`
 
 export const Question = styled.div`
   height: 100%;
+  > p{
+    text-align: right;
+    color: var(--text-body);
+    margin-bottom: .7rem;
+  }
 
   > h3 {
     font-size: 1.3rem;
