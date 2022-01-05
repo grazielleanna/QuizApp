@@ -14,10 +14,10 @@ Este projeto foi desenvolvido em inspiração no desafio Country Quiz do [devCha
 
 ## Telas do Projeto
 <p float="left">
-  <img src="./images/dashboard.png" width="50%" />
-  <img src="./images/correct.png"  width="50%" /> 
-  <img src="./images/incorrect.png" width="50%" />
-  <img src="./images/results.png" width="50%" />
+  <img src="./images/dashboard.png" width="45%" />
+  <img src="./images/correct.png"  width="45%" /> 
+  <img src="./images/incorrect.png" width="45%" />
+  <img src="./images/results.png" width="45%" />
 </p>
 
 ## :rocket: Funcionalidade
